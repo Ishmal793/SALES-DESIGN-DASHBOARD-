@@ -23,7 +23,7 @@ with open('style.css')as f:
 #load excel file
 df=pd.read_excel('data.xlsx', sheet_name='Sheet1')
 
-
+st.sidebar.image("logo1.png", use_column_width=True) 
 #2. switcher
 st.sidebar.header("Please Filter Here:")
 region= st.sidebar.multiselect(
