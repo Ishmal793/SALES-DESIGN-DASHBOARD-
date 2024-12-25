@@ -7,7 +7,7 @@ def heading():
     <div class="card shadow">
     
              
-     ⚛ Analytics Dashboard | Python & Streamlit 
+     ⚛ Analytics Dashboard | Python & Streamlit | Add Record 
   </div>
 </div>
  
